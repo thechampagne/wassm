@@ -1,0 +1,3 @@
+extrn drop_sp_test
+extrn parse_method_test
+extrn parse_request_uri_test
