@@ -16,4 +16,4 @@ The application serves files `./static/index.html` and `./static/main.css`.
 
 ## License
 
-This repo is released under the [MIT License](https://github.com/thechampagne/wassm/blob/main/LICENSE).
+This repo is released under the [MIT License](https://github.com/thechampagne/wassm-fasm/blob/main/LICENSE).
